@@ -1,4 +1,4 @@
-<h1><b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_task.txt"> Task </a> </b> and <b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_query.txt"> Examples of SQL request </b></a><h1>
+<h1><b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_task.txt"> Task </a> </b> and <b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_query.txt"> Examples of SQL request </b></a></h1>
 
 <p>I don't know does this DB base is still openning for usage.<p>
 <p> Connection Instruction <p>
