@@ -1,11 +1,16 @@
-<a href="https://github.com/KuchukNick/SQL/blob/main/DB_task.txt"> Task </a> and <a href="https://github.com/KuchukNick/SQL/blob/main/DB_query.txt"> Examples of SQL request </a>
+<p style="margin-bottom: 40px"><b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_task.txt"> Task </a> </b> and <b><a href="https://github.com/KuchukNick/SQL/blob/main/DB_query.txt"> Examples of SQL request </b></a></p>
 
-I don't know does this DB base is still openning for usage.
+<p>I don't know does this DB base is still openning for usage.<p>
 <p> Connection Instruction <p>
-<br>
-1. Connection to server
-     i.	ssh tester@178.124.206.52
-     ii.	pwd: tester_pwd
-2. Connection to the DB voodoo:
-        a.	mysql -u voodoo_user -p
-        b.	pwd: voodoo_pwd
+<ol>
+     <li>Connection to server</li>
+        <ol type="i"> 
+          <li> ssh tester@178.124.206.52 </li>
+          <li>	pwd: tester_pwd </li>
+        </ol> 
+     <li>Connection to the DB voodoo:</li>
+        <ol type="a">
+          <li> mysql -u voodoo_user -p </li>
+          <li> pwd: voodoo_pwd </li>
+        </ol>  
+</ol>
